@@ -5,11 +5,18 @@ of a project by supporting the collection of different perspectives and highligh
 and unrefined, they help set the foundation within the project to ensure that the team is aligned on the problem that they’re looking to address for key stakeholders.
 
 ##Required libraries
+
 matplotlib
+
 seaborn
+
 pandas
+
 plotly
+
 bokeh
+
 folium
+
 wordcloud
 
